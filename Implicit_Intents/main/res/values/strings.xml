@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImplicitIntents</string>
+    <string name="call">CALL</string>
+    <string name="contact">CONTACT</string>
+    <string name="camera">CAMERA</string>
+    <string name="gallery">GALLERY</string>
+    <string name="call_log">CALL LOG</string>
+    <string name="dial_pad">DIAL PAD</string>
+    <string name="browser">BROWSER</string>
+</resources>
