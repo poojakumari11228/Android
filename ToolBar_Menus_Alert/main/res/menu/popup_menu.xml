@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/popup1"
+    android:title="popup one"
+    ></item>
+    <item
+        android:id="@+id/popup2"
+        android:title="popup two"
+        ></item>
+</menu>
