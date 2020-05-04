@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SignupAndLogin</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="gender">Gender</string>
+    <string name="username_email">UserName/Email</string>
+    <string name="log_in">Log In</string>
+</resources>
