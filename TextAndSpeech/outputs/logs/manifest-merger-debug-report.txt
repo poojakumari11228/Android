@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\a6df1a1d0e195448ce8eefb49138e47b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\275d568416890f49ce11766b3f3e78e8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\e7b24a84ca1b2e11fa09d38c6fd7768c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bb729708d1b00d1cf5edbae36a39af5c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\347c2234df9bbcc932312ff167286f63\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\ed636b62aa9f87a4ed7a9b4dd886014c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\518f04c83abd604317ee351d809a4d94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\034ad4f8e22a915ceeb70cdf66b2f565\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\802d5ed546dc6fdf7230f3472ca9b494\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\e082f4e13e6d7e9ac1c1d3f6e26c6724\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\798fc761a49464b220272f653ecf00b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\12f938c0991844a53848127a2682c95d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\5539390bb31742de5921c8b21c1df584\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\1f21912d0cf0e12c6ee84129b2366cda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\8cc21edf27c64898deb3110d33977aed\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\eec31ce2c78f1fbc97567b5d1f5f8a34\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bb71735cbb7727be744746cd83157be4\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\41db18d2d5eb0de27743cbcd7fcbf9b7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\4b1a092b3ec97e20323bd4a6a6e1166f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bd97efe74ca72acf5169a2aefed042df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\5f0c98fd5eadbd8e1b266152e33de3dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\b0d23e29db4d7a5535e5891e03aecd32\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\5342b0b0b0096af53e57e14984775817\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\570da7517d797b17e0378e671fe299f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\b053cb5d426e1719c12816471024c802\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\c5f5a6981fc1e84b3539fdb79f85869c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\93528722c9355cf9be92808f8abc3057\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\275d568416890f49ce11766b3f3e78e8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\275d568416890f49ce11766b3f3e78e8\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\eec31ce2c78f1fbc97567b5d1f5f8a34\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\eec31ce2c78f1fbc97567b5d1f5f8a34\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bb71735cbb7727be744746cd83157be4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bb71735cbb7727be744746cd83157be4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\eec31ce2c78f1fbc97567b5d1f5f8a34\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.poojakumari.texttospeech.MainActivity
+ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\a6df1a1d0e195448ce8eefb49138e47b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\a6df1a1d0e195448ce8eefb49138e47b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\275d568416890f49ce11766b3f3e78e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\275d568416890f49ce11766b3f3e78e8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\e7b24a84ca1b2e11fa09d38c6fd7768c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\e7b24a84ca1b2e11fa09d38c6fd7768c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bb729708d1b00d1cf5edbae36a39af5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bb729708d1b00d1cf5edbae36a39af5c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\347c2234df9bbcc932312ff167286f63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\347c2234df9bbcc932312ff167286f63\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\ed636b62aa9f87a4ed7a9b4dd886014c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\ed636b62aa9f87a4ed7a9b4dd886014c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\518f04c83abd604317ee351d809a4d94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\518f04c83abd604317ee351d809a4d94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\034ad4f8e22a915ceeb70cdf66b2f565\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\034ad4f8e22a915ceeb70cdf66b2f565\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\802d5ed546dc6fdf7230f3472ca9b494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\802d5ed546dc6fdf7230f3472ca9b494\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\e082f4e13e6d7e9ac1c1d3f6e26c6724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\e082f4e13e6d7e9ac1c1d3f6e26c6724\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\798fc761a49464b220272f653ecf00b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\798fc761a49464b220272f653ecf00b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\12f938c0991844a53848127a2682c95d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\12f938c0991844a53848127a2682c95d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\5539390bb31742de5921c8b21c1df584\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\5539390bb31742de5921c8b21c1df584\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\1f21912d0cf0e12c6ee84129b2366cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\1f21912d0cf0e12c6ee84129b2366cda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\8cc21edf27c64898deb3110d33977aed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\8cc21edf27c64898deb3110d33977aed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\eec31ce2c78f1fbc97567b5d1f5f8a34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\eec31ce2c78f1fbc97567b5d1f5f8a34\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bb71735cbb7727be744746cd83157be4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bb71735cbb7727be744746cd83157be4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\41db18d2d5eb0de27743cbcd7fcbf9b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\41db18d2d5eb0de27743cbcd7fcbf9b7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\4b1a092b3ec97e20323bd4a6a6e1166f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\4b1a092b3ec97e20323bd4a6a6e1166f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bd97efe74ca72acf5169a2aefed042df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\bd97efe74ca72acf5169a2aefed042df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\5f0c98fd5eadbd8e1b266152e33de3dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\5f0c98fd5eadbd8e1b266152e33de3dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\b0d23e29db4d7a5535e5891e03aecd32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\b0d23e29db4d7a5535e5891e03aecd32\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\5342b0b0b0096af53e57e14984775817\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\5342b0b0b0096af53e57e14984775817\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\570da7517d797b17e0378e671fe299f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\570da7517d797b17e0378e671fe299f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\b053cb5d426e1719c12816471024c802\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\b053cb5d426e1719c12816471024c802\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\c5f5a6981fc1e84b3539fdb79f85869c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\c5f5a6981fc1e84b3539fdb79f85869c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\93528722c9355cf9be92808f8abc3057\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pooja Kumari\.gradle\caches\transforms-2\files-2.1\93528722c9355cf9be92808f8abc3057\AndroidManifest.xml:20:5-44
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+		ADDED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
+		INJECTED from F:\android_projects\texttospeech\app\src\main\AndroidManifest.xml
