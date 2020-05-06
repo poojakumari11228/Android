@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab10SqlLiteDatabases</string>
+    <string name="enter_name_to_be_inserted">Enter name to be inserted</string>
+    <string name="enter_roll_number_to_be_inserted">Enter roll number to be inserted</string>
+    <string name="save">SAVE</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+    <string name="roll_no">Roll no</string>
+    <string name="name">Name</string>
+</resources>
